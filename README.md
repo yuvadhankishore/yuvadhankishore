@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yuva
+# 👋 Hey, I'm Yuvadhan kishore
 <h3 align="center">🚀 AI & Data Science Enthusiast | Developer | Tech Explorer</h3>
 
 <p align="center">
