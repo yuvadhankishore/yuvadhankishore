@@ -1,10 +1,13 @@
 # 👋 Hey, I'm Yuvadhan Kishore!
+<h3 align="center">🚀 AI & Data Science Enthusiast | Developer | Tech Explorer</h3>
 
-\<h3 align="center">🚀 AI & Data Science Enthusiast | Developer | Tech Explorer\</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Projects;Exploring+Machine+Learning" />
+</p>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Projects;Exploring+Machine+Learning;Turning+Ideas+Into+Reality](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=23\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Projects;Exploring+Machine+Learning;Turning+Ideas+Into+Reality)" /> \</p>
-
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=venom&height=180&color=0:00D9FF,100:7B2FF7&text=YUVADHAN%20KISHORE&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=55](https://capsule-render.vercel.app/api?type=venom\&height=180\&color=0:00D9FF,100:7B2FF7\&text=YUVADHAN%20KISHORE\&fontColor=ffffff\&fontSize=38\&animation=fadeIn\&fontAlignY=55)" width="100%" /> \</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:00D9FF,100:7B2FF7&text=YUVADHAN%20KISHORE&fontColor=ffffff&fontSize=38" width="100%" />
+</p>
 
 ## 🧑‍💻 About Me
 
