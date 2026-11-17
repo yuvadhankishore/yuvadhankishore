@@ -30,19 +30,25 @@ An AI-powered project designed to identify potentially fake and genuine news usi
 
 ## 🛠️ Technologies & Tools
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=python,php,html,css,js,mysql,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,php,html,css,js,mysql,git,github,vscode\&theme=dark)" /> \</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=yuvadhankishore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=yuvadhankishore\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yuvadhankishore&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvadhankishore\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvadhankishore&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=yuvadhankishore&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=yuvadhankishore\&theme=tokyonight\&hide_border=true)" width="70%" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvadhankishore&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yuvadhankishore&theme=tokyonight&hide_border=true)
 
 ## 🐍 Contribution Activity
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/yuvadhankishore/yuvadhankishore/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/yuvadhankishore/yuvadhankishore/output/github-contribution-grid-snake-dark.svg)" width="100%" />
-\</p>
+![Contribution Snake](https://raw.githubusercontent.com/yuvadhankishore/yuvadhankishore/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Connect With Me
 
