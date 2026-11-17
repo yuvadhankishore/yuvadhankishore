@@ -57,3 +57,14 @@ An AI-powered project designed to identify potentially fake and genuine news usi
 ### 💙 Code. Create. Innovate. Repeat.
 
 Thanks for visiting my profile! ⭐
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuvadhankishore/yuvadhankishore/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+<p align="center">
+  🟢 Every contribution counts. Keep coding and keep growing!
+</p>
