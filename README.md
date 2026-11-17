@@ -46,15 +46,14 @@ An AI-powered project designed to identify potentially fake and genuine news usi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yuvadhankishore&theme=tokyonight&hide_border=true)
 
-## 🐍 Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/yuvadhankishore/yuvadhankishore/output/github-contribution-grid-snake-dark.svg)
-
 ## 🌐 Connect With Me
 
-\<p align="center">   \<a href="[https://github.com/yuvadhankishore](https://github.com/yuvadhankishore)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuvadhankishore)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
 
-\<h3 align="center">💙 Code. Create. Innovate. Repeat.\</h3>
-\<p align="center">Thanks for visiting my profile! ⭐\</p>
+### 💙 Code. Create. Innovate. Repeat.
+
+Thanks for visiting my profile! ⭐
